@@ -15,6 +15,11 @@
 resource "null_resource" "this" {
 }
 
+resource "null_resource" "this1" {
+}
+
+resource "null_resource" "this2" {
+}
 # tags = {
 #   Name = "terraform-example"
 # }
